@@ -19,4 +19,4 @@
 
 ## Projects 
 ### Weather App Using API
-
+This app for weather uses the OpenWeatherMap API to fetch weatger data. API calls are made using JavaScript's fetch function.
