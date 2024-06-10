@@ -19,8 +19,8 @@
 
 ## Projects 
 ### Weather App Using API
-This app for weather uses the OpenWeatherMap API to fetch weatger data. API calls are made using JavaScript's fetch function. When an user enters a city name and submits the search icon an API request is mande to fetch the weather datafor that location.
+-This app for weather uses the OpenWeatherMap API to fetch weatger data. API calls are made using JavaScript's fetch function. When an user enters a city name and submits the search icon an API request is mande to fetch the weather datafor that location.
 
-The fatched weather data is parsed and displayed onthe website. This indicates current temperature, humidity, wind speed and description of the weather conditions.
+-The fatched weather data is parsed and displayed onthe website. This indicates current temperature, humidity, wind speed and description of the weather conditions.
 
-Clean and intuitive interface is used. This makes it easy for users to navigate and find the informations they need.
+-Clean and intuitive interface is used. This makes it easy for users to navigate and find the informations they need.
