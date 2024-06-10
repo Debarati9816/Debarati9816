@@ -1,8 +1,8 @@
 # Web Developer
 ## Skills
-**Languages:** HTML, CSS, JavaScript, TypeScript, Python
+**Languages:** HTML, CSS, JavaScript, TypeScript, Python, SQL
 
-**Frameworks:** Bootostrap, React, Angular, Node.Js, Express.Js
+**Frameworks:** Bootostrap, React, Angular, Node.Js, Express.Js, Django
 
 **Tools:** Git, Webpack, Docker, visual Studio Code
 
@@ -15,3 +15,8 @@
 **12th** : Higher Secondary (WBCHSE) | Debiswari Vidyaniketan (2017)
 
 **10th** : Madhyamik Examination | Debisawri Vidyaniketan (2015)
+
+
+## Projects 
+### Weather App Using API
+
