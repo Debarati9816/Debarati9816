@@ -25,6 +25,8 @@
 
 -Clean and intuitive interface is used. This makes it easy for users to navigate and find the informations they need.
 
+-Check the project here https://github.com/Debarati9816/Weather-App.git
+
 ### Password Geneartor Using Python 
 -Generates passwords using a mix of uppercase and lowecase letters, digits and special characters. It allows users to specify the desised length of the password and the user can choose weather to include special characters in the password.
 
