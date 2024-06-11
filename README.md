@@ -1,10 +1,16 @@
-# Web Developer
+# Software Engineer
 ## Skills
-**•	Languages:** HTML, CSS, JavaScript, TypeScript, Python, SQL
+**•	Languages:** JavaScript, Python, C++ 
 
-**•	Frameworks:** Bootostrap, React, Angular, Node.Js, Express.Js, Django
+**•	Wev Development:** HTML, CSS, React, Angular, Node.Js, Express.Js, Django
 
-**•	Tools:** Git, Webpack, Docker, visual Studio Code
+**•	Databases:** MySQL, Mongo DB
+
+**•	DevOps:** Dockeer 
+
+**•	Cloud:** Google Cloud
+
+**•	Tools:** Git, visual Studio Code
 
 
 ## Education
