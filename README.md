@@ -37,3 +37,11 @@
 -Check the project here https://github.com/Debarati9816/Password-Generator.git
 
 
+## Courses and Certifications
+• Full Stack Development
+
+• DSA
+
+• Python
+
+
