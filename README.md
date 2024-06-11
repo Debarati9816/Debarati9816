@@ -34,4 +34,6 @@
 
 -It is simple and easy to use command line interface for generating passwords quickly.
 
+-Check the project here https://github.com/Debarati9816/Password-Generator.git
+
 
