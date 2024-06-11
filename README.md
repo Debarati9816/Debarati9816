@@ -45,3 +45,8 @@
 • Python
 
 
+## Hobbies
+• Singing
+
+• Travelling and Exploring
+
