@@ -6,7 +6,7 @@
 
 **•	Databases:** MySQL, Mongo DB
 
-**•	DevOps:** Dockeer 
+**•	DevOps:** Docker 
 
 **•	Cloud:** Google Cloud
 
