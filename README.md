@@ -1,6 +1,6 @@
 # Software Engineer
 ## Skills
-**•	Languages:** JavaScript, Python, C++ 
+**•	Languages:** JavaScript, Python
 
 **•	Wev Development:** HTML, CSS, React, Angular, Node.Js, Express.Js, Django
 
