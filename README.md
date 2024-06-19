@@ -14,13 +14,13 @@
 
 
 ## Education
-**M.Tech** : ECE | Guru Nanak Institute of Technoogy, Specialised in Mobile Communication and Network technology 8.92 cgpa (2023)
+**M.Tech** : ECE | Guru Nanak Institute of Technoogy, Specialised in Mobile Communication and Network technology 8.92 cgpa
 
-**B.Tech** : ECE | Guru Nanak Institute of technology 8.01 cgpa (2021)
+**B.Tech** : ECE | Guru Nanak Institute of technology 8.01 cgpa
 
-**12th** : Higher Secondary (WBCHSE) | Debiswari Vidyaniketan 67.40% (2017)
+**12th** : Higher Secondary (WBCHSE) | Debiswari Vidyaniketan 67.40%
 
-**10th** : Madhyamik Examination | Debisawri Vidyaniketan 77.42% (2015)
+**10th** : Madhyamik Examination | Debisawri Vidyaniketan 77.42%
 
 
 ## Projects 
@@ -41,6 +41,15 @@
 -It is simple and easy to use command line interface for generating passwords quickly.
 
 -Check the project here https://github.com/Debarati9816/Password-Generator.git
+
+### Todo list using React/Next.js
+- Todo List Application is a modern web developed using React. It allows users to manage their tasks efficiently by providing an intuitive interface to add amd delete and organize tasks. This project laverages the power of React for responsive and interactive user experience.
+
+- User can create new tasks with title and descriptions and remove tasks those are no longer needed.
+
+- It organizez tasks into different lists and categories.
+
+- Check the project here  
 
 
 ## Courses and Certifications
