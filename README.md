@@ -2,13 +2,15 @@
 ## Skills
 **•	Languages:** JavaScript, Python
 
-**•	Wev Development:** HTML, CSS, React, Angular, Node.Js, Express.Js, Django
+**•	Wev Development:** HTML, CSS, JavaScript
+
+  **•Runtime Environmenr:** Node.js
+  **•Library:** React
+  **•Framework:** Tailwind, Express.js
 
 **•	Databases:** MySQL, Mongo DB
 
-**•	DevOps:** Docker 
-
-**•	Cloud:** Google Cloud
+**•Data Visualization:** Power BI
 
 **•	Tools:** Git, visual Studio Code
 
@@ -49,7 +51,7 @@
 
 - It organizez tasks into different lists and categories.
 
-- Check the project here  
+- Check the project here https://github.com/Debarati9816/Todo-List.git
 
 
 ## Courses and Certifications
