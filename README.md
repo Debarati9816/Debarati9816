@@ -53,11 +53,18 @@
 
 - Check the project here https://github.com/Debarati9816/Todo-List.git
 
+ ### HR Analytics Dashboard Using Power BI
+ - This dashboard project aims to provide a comprehensive tool for HR departments to analyze various aspects of their workforce.
+
+ - The analyzation of real time data of attrition rate of employees is shown.
+
+ - Different basis of attrition is analyzed.
+
+ - Check the project here https://github.com/Debarati9816/Dashboard.git
+
 
 ## Courses and Certifications
-• Full Stack Development
-
-• DSA
+• Web Development
 
 • Python
 
