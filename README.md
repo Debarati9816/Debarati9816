@@ -4,7 +4,7 @@
 
 **•	Wev Development:** HTML, CSS, JavaScript
 
-  **•Runtime Environmenr:** Node.js
+  **•Runtime Environment:** Node.js
   **•Library:** React
   **•Framework:** Tailwind, Express.js
 
