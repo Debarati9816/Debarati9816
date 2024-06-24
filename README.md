@@ -45,7 +45,7 @@
 -Check the project here https://github.com/Debarati9816/Password-Generator.git
 
 ### Todo list using React/Next.js
-- Todo List Application is a modern web developed using React. It allows users to manage their tasks efficiently by providing an intuitive interface to add amd delete and organize tasks. This project laverages the power of React for responsive and interactive user experience.
+- Todo List Application is a modern web developed using React. It allows users to manage their tasks efficiently by providing an intuitive interface to add and delete and organize tasks. This project laverages the power of React for responsive and interactive user experience.
 
 - User can create new tasks with title and descriptions and remove tasks those are no longer needed.
 
