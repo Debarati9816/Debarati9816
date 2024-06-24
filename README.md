@@ -36,7 +36,7 @@
 -Check the project here https://github.com/Debarati9816/Weather-App.git
 
 ### Password Geneartor Using Python 
--Generates passwords using a mix of uppercase and lowecase letters, digits and special characters. It allows users to specify the desised length of the password and the user can choose weather to include special characters in the password.
+-Generates passwords using a mix of uppercase and lowecase letters, digits and special characters. It allows users to specify the desired length of the password and the user can choose weather to include special characters in the password.
 
 -The main programming language **Python** is used for developing the application. And it provides consents for different types of characters. Random module is used for generating random characters.
 
