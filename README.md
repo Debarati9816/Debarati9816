@@ -58,7 +58,7 @@
 
  - The analyzation of real time data of attrition rate of employees is shown.
 
- - Different basis of attrition is analyzed.
+ - Different basis of attrition is analysed.
 
  - Check the project here https://github.com/Debarati9816/Dashboard.git
 
