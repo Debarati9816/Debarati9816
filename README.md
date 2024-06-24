@@ -12,7 +12,7 @@
 
 **•Data Visualization:** Power BI
 
-**•	Tools:** Git, visual Studio Code
+**•	Tools:** Git, GitHub, visual Studio Code
 
 
 ## Education
