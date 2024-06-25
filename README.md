@@ -4,13 +4,13 @@
 
 **•	Wev Development:** HTML, CSS, JavaScript
 
-  **•Runtime Environment:** Node.js
-  **•Library:** React
-  **•Framework:** Tailwind, Express.js
+  **• Runtime Environment:** Node.js
+  **• Library:** React
+  **• Framework:** Tailwind, Express.js
 
 **•	Databases:** MySQL, Mongo DB
 
-**•Data Visualization:** Power BI
+**• Data Visualization:** Power BI
 
 **•	Tools:** Git, GitHub, visual Studio Code
 
