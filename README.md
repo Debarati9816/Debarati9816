@@ -49,7 +49,7 @@
 
 - User can create new tasks with title and descriptions and remove tasks those are no longer needed.
 
-- It organizez tasks into different lists and categories.
+- It organizes tasks into different lists and categories.
 
 - Check the project here https://github.com/Debarati9816/Todo-List.git
 
